@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<squad nick="TF-BALOR">
+    <name>Task Force Balor</name>
+    <email>admin@example.com</email>
+    <web>https://units.arma3.com/</web>
+    <picture>patch.paa</picture>
+    <title>702nd Operations Group</title>
+
+    <!-- TF Command -->
+    <member id="76561198128367091" nick="Ocular">
+        <name>Platoon Leader</name>
+        <email>support@example.com</email>
+        <icq>N/A</icq>
+        <remark>Task Force Commander</remark>
+    </member>
+
+    <!-- Platoon Command -->
+    <member id="76561198401760643" nick="Vandal 6">
+        <name>Platoon Leader</name>
+        <email>support@example.com</email>
+        <icq>N/A</icq>
+        <remark>Platoon Commander</remark>
+    </member>
+
+    <member id="7656119800000000*" nick="Vandal 7">
+        <name>Platoon Sergeant</name>
+        <email>support@example.com</email>
+        <icq>N/A</icq>
+        <remark>Platoon Sergeant</remark>
+    </member>
+
+    <member id="76561198150346197" nick="Doc">
+        <name>Platoon Medic</name>
+        <email>support@example.com</email>
+        <icq>N/A</icq>
+        <remark>Senior Platoon Medic</remark>
+    </member>
+
+    <!-- Squad Leaders -->
+    <member id="76561198437836356" nick="Ruin 1">
+        <name>1st Squad Leader</name>
+        <email>support@example.com</email>
+        <icq>N/A</icq>
+        <remark>Ruin 1 Lead</remark>
+    </member>
+
+    <member id="7656119800000000*" nick="Ruin 2">
+        <name>2nd Squad Leader</name>
+        <email>support@example.com</email>
+        <icq>N/A</icq>
+        <remark>Ruin 2 Lead</remark>
+    </member>
+
+    <member id="7656119800000000*" nick="Ruin 3">
+        <name>3rd Squad Leader</name>
+        <email>support@example.com</email>
+        <icq>N/A</icq>
+        <remark>Ruin 3 Lead</remark>
+    </member>
+
+    <member id="76561198093251362" nick="Ruin 4">
+        <name>Weapons Squad Leader</name>
+        <email>support@example.com</email>
+        <icq>N/A</icq>
+        <remark>Ruin 4 Lead</remark>
+    </member>
+
+    <!-- Detachments -->
+    <member id="7656119800000000*" nick="Gazer">
+        <name>SNOT Team Lead</name>
+        <email>support@example.com</email>
+        <icq>N/A</icq>
+        <remark>Sniper / Recce</remark>
+    </member>
+
+    <member id="76561198301064827" nick="Cataract">
+        <name>Mortar Section Chief</name>
+        <email>support@example.com</email>
+        <icq>N/A</icq>
+        <remark>FDC Lead</remark>
+    </member>
+</squad>
